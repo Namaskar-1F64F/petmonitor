@@ -1,14 +1,13 @@
 {
-  "main.css": "/petmonitor/static/css/main.94b169df.chunk.css",
-  "main.js": "/petmonitor/static/js/main.aed89a92.chunk.js",
-  "main.js.map": "/petmonitor/static/js/main.aed89a92.chunk.js.map",
+  "main.css": "/petmonitor/static/css/main.07318036.chunk.css",
+  "main.js": "/petmonitor/static/js/main.43bcde27.chunk.js",
+  "main.js.map": "/petmonitor/static/js/main.43bcde27.chunk.js.map",
   "runtime~main.js": "/petmonitor/static/js/runtime~main.de716f44.js",
   "runtime~main.js.map": "/petmonitor/static/js/runtime~main.de716f44.js.map",
-  "static/js/2.d16a2668.chunk.js": "/petmonitor/static/js/2.d16a2668.chunk.js",
-  "static/js/2.d16a2668.chunk.js.map": "/petmonitor/static/js/2.d16a2668.chunk.js.map",
+  "static/js/2.017fb95a.chunk.js": "/petmonitor/static/js/2.017fb95a.chunk.js",
+  "static/js/2.017fb95a.chunk.js.map": "/petmonitor/static/js/2.017fb95a.chunk.js.map",
   "index.html": "/petmonitor/index.html",
-  "precache-manifest.0d79feafdc375d5b1e63cff2e1117edd.js": "/petmonitor/precache-manifest.0d79feafdc375d5b1e63cff2e1117edd.js",
+  "precache-manifest.5a18695565982aeca46cb6f089b44a81.js": "/petmonitor/precache-manifest.5a18695565982aeca46cb6f089b44a81.js",
   "service-worker.js": "/petmonitor/service-worker.js",
-  "static/css/main.94b169df.chunk.css.map": "/petmonitor/static/css/main.94b169df.chunk.css.map",
-  "static/media/logo.svg": "/petmonitor/static/media/logo.5d5d9eef.svg"
+  "static/css/main.07318036.chunk.css.map": "/petmonitor/static/css/main.07318036.chunk.css.map"
 }
